@@ -1,0 +1,45 @@
+Get by dates service invocation time(Sorted Arraylist as storage,1m records):
+Object find executed in: 2619563433  // not count
+Object find executed in: 97413743
+Object find executed in: 93644415
+Object find executed in: 93644415
+Object find executed in: 95507704
+Object find executed in: 100301981
+Object find executed in: 105819918  //not count
+Object find executed in: 89982857   // not count
+Object find executed in: 101346386
+Object find executed in: 93484683
+Object find executed in: 89138886   //not count
+Object find executed in: 94243668
+Object find executed in: 95175952
+Object find executed in: 97689946
+Avarage: 96245289.3
+
+Get by dates service invocation time(Sorted LinkedList as storage,1m records):
+Object find executed in: 95808995
+Object find executed in: 101654331
+Object find executed in: 97835856
+Object find executed in: 99140337
+Object find executed in: 95272714
+Object find executed in: 97079943
+Object find executed in: 97097861
+Object find executed in: 96210118
+Object find executed in: 95744999
+Object find executed in: 95013661
+Object find executed in: 104951884
+Object find executed in: 98571035
+Object find executed in: 98337324
+Object find executed in: 98710800
+Object find executed in: 104819286
+Object find executed in: 99184367
+Object find executed in: 105675544  //not count
+Object find executed in: 94149723   //not count
+Object find executed in: 105325874  //not count
+Object find executed in: 93672062   //not count
+Average: 98464594.4375
+
+Get by dates service invocation time(Unsorted list as storage,100k records):
+Object find executed in: 22478334370
+Object find executed in: 22520221895
+Object find executed in: 22295327597
+Avarage: 22.43 seconds
